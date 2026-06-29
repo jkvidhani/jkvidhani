@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Jai! 👋
 
-<!--
-**jkvidhani/jkvidhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a second-year B.Tech student specializing in Artificial Intelligence and Machine Learning at GLA University. I am currently focused on mastering core programming concepts and documenting my daily coding journey.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Up To
+* 💻 **Currently working on:** Building core Python projects from scratch in my daily genesis log.
+* 🌱 **Currently learning:** Python, Object-Oriented Programming.
+* 🎯 **2026 Goals:** Solidify my Python foundations and transition into early Machine Learning models.
+* 
+## 🛠️ Tech Stack
+* **Languages:** Python, SQL
+* **Tools:** Git, GitHub, Command Line
+  
+## 📈 Check Out My Work
+Dive into my [genesis](https://github.com/jkvidhani/genesis) repository to see my latest daily progress, including a fully functional CLI Contact Book!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect
+[LinkedIn](https://www.linkedin.com/in/jai-kumar-vidhani/)
