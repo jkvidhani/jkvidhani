@@ -8,7 +8,7 @@ I am a second-year B.Tech student specializing in Artificial Intelligence and Ma
 * 🎯 **2026 Goals:** Solidify my Python foundations and transition into early Machine Learning models.
 * 
 ## 🛠️ Tech Stack
-* **Languages:** Python, SQL
+* **Languages:** Python, SQL 
 * **Tools:** Git, GitHub, Command Line
   
 ## 📈 Check Out My Work
