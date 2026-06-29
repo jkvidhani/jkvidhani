@@ -4,9 +4,9 @@ I am a second-year B.Tech student specializing in Artificial Intelligence and Ma
 
 ## 🚀 What I'm Up To
 * 💻 **Currently working on:** Building core Python projects from scratch in my daily genesis log.
-* 🌱 **Currently learning:** Python, Object-Oriented Programming.
+* 🌱 **Currently learning:** Python, OOP, File Handling, Exception Handling, Git and more.
 * 🎯 **2026 Goals:** Solidify my Python foundations and transition into early Machine Learning models.
-* 
+  
 ## 🛠️ Tech Stack
 * **Languages:** Python, SQL 
 * **Tools:** Git, GitHub, Command Line
