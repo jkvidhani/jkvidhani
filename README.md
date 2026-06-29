@@ -1,5 +1,5 @@
 # Hi there, I'm Jai! 👋
-
+ 
 I am a second-year B.Tech student specializing in Artificial Intelligence and Machine Learning at GLA University. I am currently focused on mastering core programming concepts and documenting my daily coding journey.
 
 ## 🚀 What I'm Up To
